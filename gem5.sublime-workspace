@@ -1,0 +1,836 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input_weights_",
+				"input_weights_16b"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"bit",
+				"bitPrecision"
+			],
+			[
+				"bi",
+				"bitPrecision"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"resnet",
+				"resnet18"
+			],
+			[
+				"resne",
+				"resnext\tmodule"
+			],
+			[
+				"filen",
+				"filename\tstatement"
+			],
+			[
+				"conf",
+				"confusion_matrix"
+			],
+			[
+				"sof",
+				"softmax_scores"
+			],
+			[
+				"save",
+				"save_path"
+			],
+			[
+				"sofr",
+				"softmax_scores\tstatement"
+			],
+			[
+				"hyper",
+				"hyperparameters"
+			],
+			[
+				"res",
+				"resnet110\tmodule"
+			],
+			[
+				"tech",
+				"teacher_model\tstatement"
+			],
+			[
+				"teacher",
+				"teacher_model\tstatement"
+			],
+			[
+				"resn",
+				"resnext\tmodule"
+			],
+			[
+				"tea",
+				"teacher_model\tstatement"
+			],
+			[
+				"teacher_ense",
+				"teacher_ensemble_outputs\tstatement"
+			],
+			[
+				"teacher_",
+				"teacher_ensemble\tparam"
+			],
+			[
+				"te",
+				"teacher_ensemble\tparam"
+			],
+			[
+				"densene",
+				"densenet"
+			],
+			[
+				"teac",
+				"teacher_models\tstatement"
+			],
+			[
+				"train",
+				"train_dataloader\tparam"
+			],
+			[
+				"teach",
+				"teacher_outputs\tparam"
+			],
+			[
+				"nu",
+				"numpy"
+			],
+			[
+				"cnn",
+				"cnn_distill"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"output",
+				"output_teacher_batch\tstatement"
+			],
+			[
+				"outpu",
+				"output_teacher_batch\tstatement"
+			],
+			[
+				"trai",
+				"train_batch\tstatement"
+			],
+			[
+				"la",
+				"labels_batch\tstatement"
+			],
+			[
+				"sum",
+				"summary_batch\tstatement"
+			],
+			[
+				"e",
+				"evaluate_kd\tfunction"
+			],
+			[
+				"loss",
+				"loss_fn_kd\tfunction"
+			],
+			[
+				"tra",
+				"train_batch\tstatement"
+			],
+			[
+				"adam",
+				"adam\tmodule"
+			],
+			[
+				"num",
+				"num_epochs"
+			],
+			[
+				"max",
+				"max_pool2d"
+			],
+			[
+				"tran",
+				"transforms"
+			],
+			[
+				"the",
+				"the_model"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Anaconda3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Anaconda3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "install pak",
+		"selected_items":
+		[
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"mard",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda find",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Repository"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package tronl",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hli/Desktop/gem5"
+	],
+	"file_history":
+	[
+		"/Users/hli/Desktop/EE292A-lab1/shell script",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fxp4.cl",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fxp8.cl",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fxp16.cl",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/host/src/main.origin",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/host/src/main.paramized.test",
+		"/Users/hli/Desktop/EE292A-lab1/shared/defines.h",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/Makefile",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fxp_swi.cl",
+		"/Users/hli/Box Sync/Courses/CS230/knowledge-distillation-pytorch/model/net.py",
+		"/Users/hli/Desktop/EE292A-lab1/common/src/AOCLUtils/opencl.cpp",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/host/src/main.cpp",
+		"/Users/hli/Desktop/EE292A-lab1/common/inc/AOCLUtils/aocl_utils.h",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fp.cl",
+		"/Users/hli/Desktop/EE292A-lab1/linear_classifier/device/linear_classifier_fxp.cl",
+		"/Users/hli/Desktop/nvsim/RRAM_framework.cfg",
+		"/Users/hli/Desktop/Terminal Saved Output",
+		"/Users/hli/Desktop/nvsim/nvsim.cfg",
+		"/Users/hli/Desktop/nvsim/Result.cpp",
+		"/Users/hli/Desktop/nvsim/main.cpp",
+		"/Users/hli/Desktop/nvsim/sample_RRAM_toshiba.cell",
+		"/Users/hli/Desktop/nvsim/README",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/README.md",
+		"/Users/hli/Desktop/examples/train_neural_net.py",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/main.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/Array.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/NeuroSim/ShiftAdd.cpp",
+		"/Users/hli/Desktop/nvmain/Simulators/gem5/NVMainMemory.py",
+		"/Users/hli/Desktop/nvmain/traceReader/NVMainTrace/NVMainTraceReader.cpp",
+		"/Users/hli/Desktop/nvmain/Banks/BankFactory.cpp",
+		"/Users/hli/Box Sync/GGU_Mentor/ggu_work_record.txt",
+		"/Users/hli/Desktop/destiny-master/config/sample_3DReRAM.cfg",
+		"/Users/hli/.hgrc",
+		"/Users/hli/Desktop/rram-framework/rram-framework.sublime-project",
+		"/Users/hli/Desktop/rram-framework/.gitignore",
+		"/Users/hli/Desktop/rram-framework/endurance.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/train.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nn_dataflow-1.5/nn_dataflow/core/data_layout.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nn_dataflow-1.5/nn_dataflow/core/nn_dataflow.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nn_dataflow-1.5/nn_dataflow/core/cost.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nn_dataflow-1.5/nn_dataflow/tools/nn_dataflow_search.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/tcam latency model/tcam_latency.py",
+		"/Users/hli/Desktop/rram-framework/README.md",
+		"/Users/hli/Desktop/flexemg/genfilter.m",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/.gitignore",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nn_dataflow-1.5/nn_dataflow/core/partition.py",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/tcam latency model/rram_2t2r_tcam_latency.pl",
+		"/Users/hli/Downloads/html5up-stellar/assets/js/main.js",
+		"/Users/hli/Downloads/html5up-stellar/LICENSE.txt",
+		"/Users/hli/Desktop/examples/simple_core_use.py",
+		"/Users/hli/Desktop/examples/create_lookup_table.py",
+		"/Users/hli/Desktop/cross_sim-0.2.0/cross_sim.egg-info/requires.txt",
+		"/Users/hli/Desktop/cross_sim-0.2.0/cross_sim/xbar_simulator/cores/memory_core.py",
+		"/Users/hli/Desktop/cross_sim-0.2.0/cross_sim/xbar_simulator/cores/xyce_core.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/resnet18_distill/resnext_teacher/temp1.0_softmax_scores.txt",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/CF_growth_new.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/variation.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/random_field.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/import_image.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/main.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/run_neuron_new1.m",
+		"/Users/hli/Desktop/large_scale_visual_system_IEDM2012/test.m",
+		"/Users/hli/Box Sync/Simulation/WTA_stochastic synapse_VLSI16/device parameter fitting log.txt",
+		"/Users/hli/Box Sync/Simulation/WTA_stochastic synapse_VLSI16/MNIST_testing.m",
+		"/Users/hli/Box Sync/Simulation/WTA_stochastic synapse_VLSI16/run_neuron_mixed_synapse.m",
+		"/Volumes/Plot Digitizer 2.6.8/README.txt",
+		"/Users/hli/Box Sync/Courses/CS229/Final Project/result.txt",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/NeuroSim/RowDecoder.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/NeuroSim/Adder.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/NeuroSim.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/Cell.cpp",
+		"/Users/hli/Desktop/nvsim/RowDecoder.cpp",
+		"/Users/hli/Desktop/MLP_NeuroSim-master/makefile",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/2018_02_20_11_14_AM.log",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/date",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/requirements.txt",
+		"/Users/hli/Desktop/cifar-transfer-learning/transfer_learning_tutorial.py",
+		"/Users/hli/Desktop/cifar-transfer-learning/vgg16.py",
+		"/Users/hli/Desktop/untitled folder/transfer_learning_tutorial.py",
+		"/Users/hli/Desktop/untitled folder/vgg16.py",
+		"/Users/hli/Downloads/transfer_learning_tutorial.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/evaluate.py",
+		"/Users/hli/Desktop/NVSim-master/main.cpp",
+		"/Users/hli/Desktop/NVSim-master/SubArray.cpp",
+		"/Users/hli/Downloads/fengbintu-fengbintu.github.io-dbc743d/_config.yml",
+		"/Users/hli/Downloads/fengbintu-fengbintu.github.io-dbc743d/index.md",
+		"/Users/hli/Downloads/fengbintu-fengbintu.github.io-dbc743d/README.md",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/BankWithoutHtree.h",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/NeuroSim/DFF.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/Wire.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/BankWithoutHtree.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/Bank.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/BankWithHtree.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/NeuroSim/SubArray.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/Result.cpp",
+		"/Users/hli/Desktop/NVSim/nvsim/main.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/NeuroSim.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/Mapping.cpp",
+		"/Users/hli/Desktop/NVSim/nvsim/SubArray.cpp",
+		"/Users/hli/Desktop/NVSim/nvsim/Makefile",
+		"/Users/hli/Desktop/NVSim/nvsim/Makefile.dep",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/Makefile",
+		"/Users/hli/Desktop/NVSim/nvsim 2/Makefile",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/nvsim/2MB_results.txt",
+		"/Users/hli/Desktop/NVSim-master/Buffer.cpp",
+		"/Users/hli/Desktop/NVSim-master/sample_PCRAM.cfg",
+		"/Users/hli/Desktop/NVSim-master/sample_RRAM.cfg",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/main.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/IO.cpp",
+		"/Users/hli/Desktop/NVSim-master/Wire.cpp",
+		"/Users/hli/Box Sync/Simulation/Model_framework_dse/MLP_NeuroSim-master/MLP_NeuroSim-master/label10000_test.txt",
+		"/Users/hli/Desktop/NVSim-master/MemCell.h",
+		"/Users/hli/Desktop/NVSim-master/MemCell.cpp",
+		"/Users/hli/Desktop/NVSim-master/Comparator.cpp",
+		"/Users/hli/Desktop/NVSim-master/Comparator.h",
+		"/Users/hli/Desktop/NVSim-master/BankWithoutHtree.cpp",
+		"/Users/hli/Desktop/NVSim-master/RowDecoder.cpp",
+		"/Users/hli/Box Sync/MyPapers/Media coverage/coverage on ISSCC2018.txt",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/mnist/distill_mnist.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/model/data_loader.py",
+		"/Users/hli/Desktop/notes/lecture-05/1-list-comprehensions.md",
+		"/Users/hli/Desktop/test.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/base_wrn/log.txt",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/base_resnet18/params.json",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/search_hyperparams.py",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/cnn_distill_subset/params.json",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/base_cnn/nodropout/params.json",
+		"/Users/hli/Desktop/knowledge-distillation-pytorch/experiments/cnn_distill_noaug_nodrop_alpha_temp/results.md"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gem5.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"utils",
+				"shared/utils.h"
+			],
+			[
+				"make",
+				"linear_classifier/Makefile"
+			],
+			[
+				"makefi",
+				"linear_classifier/Makefile"
+			],
+			[
+				"uti",
+				"shared/utils.cpp"
+			],
+			[
+				"mai",
+				"linear_classifier/host/src/main.cpp"
+			],
+			[
+				"oepn",
+				"common/src/AOCLUtils/opencl.cpp"
+			],
+			[
+				"open",
+				"common/src/AOCLUtils/opencl.cpp"
+			],
+			[
+				"defin",
+				"shared/defines.h"
+			],
+			[
+				"define",
+				"shared/defines.h"
+			],
+			[
+				"aocl",
+				"common/inc/AOCLUtils/aocl_utils.h"
+			],
+			[
+				"main",
+				"linear_classifier/host/src/main.cpp"
+			],
+			[
+				"rram",
+				"RRAM_framework.cfg"
+			],
+			[
+				"decode",
+				"RowDecoder.cpp"
+			],
+			[
+				"pcram",
+				"nvsim/sample_PCRAM.cell"
+			],
+			[
+				"result",
+				"Result.cpp"
+			],
+			[
+				"nvsim",
+				"nvsim.cfg"
+			],
+			[
+				"sample_rram_to",
+				"sample_RRAM_toshiba.cell"
+			],
+			[
+				"sampe",
+				"sample_RRAM_toshiba.cfg"
+			],
+			[
+				"nvm",
+				"nvsim.cfg"
+			],
+			[
+				"readme",
+				"README"
+			],
+			[
+				"resut",
+				"Result.cpp"
+			],
+			[
+				"nvsi.",
+				"nvsim.cfg"
+			],
+			[
+				"rram_fra",
+				"RRAM_framework.cell"
+			],
+			[
+				"read",
+				"README"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"re",
+				"requirements.txt"
+			],
+			[
+				"net",
+				"model/net.py"
+			],
+			[
+				"train",
+				"train.py"
+			],
+			[
+				"eva",
+				"evaluate.py"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"ream",
+				"README.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"eval",
+				"evaluate.py"
+			],
+			[
+				"datalo",
+				"model/data_loader.py"
+			],
+			[
+				"ignore",
+				".gitignore"
+			],
+			[
+				"sy",
+				"synthesize_results.py"
+			],
+			[
+				"dis",
+				"distillation_analysis.py"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"predic",
+				"experiments/base_resnet18/predict_correct.txt"
+			],
+			[
+				"data",
+				"model/data_loader.py"
+			],
+			[
+				".gitig",
+				".gitignore"
+			],
+			[
+				"tra",
+				"train.py"
+			],
+			[
+				"evalu",
+				"evaluate.py"
+			],
+			[
+				"sear",
+				"search_hyperparams.py"
+			],
+			[
+				"datal",
+				"model/data_loader.py"
+			],
+			[
+				"pre",
+				"model/preresnet.py"
+			],
+			[
+				"resnex",
+				"model/resnext.py"
+			],
+			[
+				"resnet",
+				"model/resnet.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"trai",
+				"train_v0.6.py"
+			],
+			[
+				"dense",
+				"model/densenet.py"
+			],
+			[
+				".g",
+				".gitignore"
+			],
+			[
+				"nvsim/main.cpp",
+				"nvsim/main.cpp"
+			],
+			[
+				"main.cpp",
+				"MLP_NeuroSim-master/MLP_NeuroSim-master/main.cpp"
+			],
+			[
+				"sample_rram",
+				"nvsim/sample_RRAM.cell"
+			],
+			[
+				"sample_rram_new",
+				"nvsim/sample_RRAM_new.cell"
+			],
+			[
+				"sample_rram_toshi",
+				"nvsim/sample_RRAM_toshiba.cell"
+			],
+			[
+				"sample_rram_test",
+				"nvsim/sample_RRAM_test.cell"
+			],
+			[
+				"sample_rram.cell",
+				"nvsim/sample_RRAM.cell"
+			],
+			[
+				"sample_rram_",
+				"nvsim/sample_RRAM_test.cfg"
+			],
+			[
+				"sense",
+				"nvsim/SenseAmp.cpp"
+			],
+			[
+				"sample_3d",
+				"destiny-master/config/sample_3DReRAM.cfg"
+			],
+			[
+				"sample_rram_tes",
+				"nvsim/sample_RRAM_test.cfg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/knowledge-distillation-pytorch/kd-pytorch.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 169.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
